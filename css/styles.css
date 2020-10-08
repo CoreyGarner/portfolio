@@ -10255,18 +10255,6 @@ section.resume-section .resume-section-content {
 }
 .portfolio-box h3:hover i { padding-left: 15px; }
 
-.portfolio-box-date {
-	padding-bottom: 10px;
-	font-size: 14px;
-	color: #aaa;
-	text-transform: uppercase;
-}
-
-.portfolio-box-date i {
-	padding-right: 5px;
-	color: #ddd;
-}
-
 .portfolio-container .section-bottom-button {
 	padding-top: 40px;
 }
