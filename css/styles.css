@@ -151,6 +151,12 @@ body {
    border:0;
  }
 
+ .contact-form .right .btn-secondary:hover{
+  background:  #00FF9C;
+  color: #FF4081;
+  border:0;
+}
+
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
 }
@@ -2973,13 +2979,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-dark {
-  color: #343a40;
-  border-color: #343a40;
-}
-.btn-outline-dark:hover {
   color: #fff;
   background-color: #343a40;
   border-color: #343a40;
+}
+.btn-outline-dark:hover {
+  color: #FF4081;
+  background-color: #00FF9C;
+  border-color: #00FF9C;
 }
 .btn-outline-dark:focus, .btn-outline-dark.focus {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
